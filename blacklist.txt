@@ -52,3 +52,4 @@ track.pusatfilm21.tv
 oqdavkguftan.com
 sraghuba.com
 s.opoxv.com
+*.popup.com
